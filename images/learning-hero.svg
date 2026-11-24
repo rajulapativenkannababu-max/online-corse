@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 500" role="img" aria-label="LEARNOVA CLASSROOM">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#293e82"/><stop offset="1" stop-color="#7161d6"/></linearGradient></defs>
+<rect width="840" height="500" rx="34" fill="url(#g)"/>
+<circle cx="95" cy="80" r="90" fill="#a5b9ff" opacity=".12"/><circle cx="745" cy="435" r="125" fill="#a5b9ff" opacity=".12"/>
+<rect x="270" y="95" width="300" height="310" rx="24" fill="#f4f7ff"/>
+<rect x="300" y="130" width="240" height="18" rx="9" fill="#c8d4f4"/>
+<rect x="300" y="170" width="160" height="13" rx="6" fill="#d9e1f7"/>
+<rect x="300" y="215" width="240" height="120" rx="15" fill="#6f8fe8"/>
+<path d="M390 245l70 30-70 30z" fill="#fff"/>
+<circle cx="220" cy="310" r="55" fill="#f0c18b"/>
+<path d="M155 410c5-72 28-105 65-105s61 33 66 105" fill="#253b72"/>
+<circle cx="620" cy="155" r="45" fill="#f4bf67"/>
+<path d="M590 155l20 20 40-48" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="445" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="700">LEARNOVA CLASSROOM</text>
+<text x="48" y="473" fill="#ffffff" opacity=".78" font-family="Arial,sans-serif" font-size="14">Learn a skill • build your future</text>
+</svg>
